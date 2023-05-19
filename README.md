@@ -43,6 +43,17 @@ The app is built using the following technologies:
 - **React Router v6**: Routing library for React applications.
 - **Axios**: A popular JavaScript library for making HTTP requests.
 
+## Screenshots
+
+Here are some screenshots of this app:
+![Vite + React + TS (3)](https://github.com/Milan-98/Taiyo.Ai-Project/assets/114464208/01375c73-2b22-4ef6-863a-5970e04f67a4)
+![Vite + React + TS](https://github.com/Milan-98/Taiyo.Ai-Project/assets/114464208/c5dbad9e-413a-4af0-8dc1-7bd4a28d1e02)
+![Vite + React + TS (1)](https://github.com/Milan-98/Taiyo.Ai-Project/assets/114464208/e33de6ba-cd6e-4a30-a4d8-2c5b476a6895)
+![Vite + React + TS (2)](https://github.com/Milan-98/Taiyo.Ai-Project/assets/114464208/c479a856-fbde-401b-aada-e9e0fc0fe810)
+
+## Demo Link
+
+Check out the live demo of the Netflix clone [here](https://taiyo-ai-project.netlify.app/).
 
 ## App Structure
 
@@ -60,5 +71,11 @@ For more information on the API endpoints used, please refer to the following li
 - Country-specific data of cases: [https://disease.sh/v3/covid-19/countries](https://disease.sh/v3/covid-19/countries)
 - Graph data for cases with date: [https://disease.sh/v3/covid-19/historical/all?lastdays=all](https://disease.sh/v3/covid-19/historical/all?lastdays=all)
 
+## Contributing
 
+If you'd like to contribute to this project, feel free to submit a pull request. Any contributions are greatly appreciated!
+
+## License
+
+This project is licensed under the MIT License.
 
