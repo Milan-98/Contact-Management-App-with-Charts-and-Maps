@@ -62,6 +62,7 @@ The app follows a well-structured architecture that promotes maintainability and
 ## Responsive Design
 
 The app is designed to be responsive and optimized for both desktop and mobile devices. It adapts to different screen sizes to provide a seamless user experience.
+Date:19 May 2023, Day 158 Of WebDev
 
 ## Documentation
 
